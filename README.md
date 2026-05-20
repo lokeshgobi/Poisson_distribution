@@ -60,6 +60,8 @@ if chi_sq > critical:
 else:
   print("Can not be fitted to poisson distribution")
 ```
+
+https://github.com/lokeshgobi/Poisson_distribution
 # Output : 
 <img width="564" height="459" alt="image" src="https://github.com/user-attachments/assets/162fda76-693d-4325-92ee-518788669244" />
 
